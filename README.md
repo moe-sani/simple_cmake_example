@@ -1,3 +1,3 @@
-# Cmake Example Project
+# Cmake Example Project - simple
 
-follow [https://code.visualstudio.com/docs/cpp/cmake-linux](this) link for configuring Cmake in VScode!
+Follow [https://code.visualstudio.com/docs/cpp/cmake-linux](this) link for configuring Cmake in VScode!
